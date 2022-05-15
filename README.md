@@ -18,3 +18,17 @@ El logotipo enciende cuando ya está activada, aparecerá tal y como está en la
 
 ### Link pag
 [Link](https://ide45.github.io/mockup_noC/#/)
+
+### Tegnologías y dependencias
+- **Node**
+    - *axios*
+    - *jest*
+    - *node-telegram-bot-api*
+ 
+ ### Repositorio de Bot Telegram
+ - [Repositorio telegram](https://github.com/LuisAngelFnz/BotTelegramMarinePreservation)
+ - [BotTelegram desplegado en azure](t.me/MarinePreservationBot)
+ 
+ ### Estructura
+ 
+ [![](https://mermaid.ink/img/pako:eNp1kMGKAjEMhl-l5KSgLzAHYcbuYQ8LAwp7mHqINmrRaWfbzMKivrsRO64HDTmEL3_-kJxgEyxBAbuI3V4ttfFKomxGGhnXmGi8uqNq9IXReaojJYq_yC54Vdaf43t73nzTWnW4o6zXTRV4SUcS51ZYNlbT6UydlWSVff9JOagGJqu64BNJOc9rHp2fnhK_8HmaycfotzMwgZZii87KB043ZoD31JKBQkqL8WDA-Ivo-s4i04d1HCIUWzwmmgD2HBZ_fgMFx54GkXZ4uzmrLlf09mus)](https://mermaid.live/edit#pako:eNp1kMGKAjEMhl-l5KSgLzAHYcbuYQ8LAwp7mHqINmrRaWfbzMKivrsRO64HDTmEL3_-kJxgEyxBAbuI3V4ttfFKomxGGhnXmGi8uqNq9IXReaojJYq_yC54Vdaf43t73nzTWnW4o6zXTRV4SUcS51ZYNlbT6UydlWSVff9JOagGJqu64BNJOc9rHp2fnhK_8HmaycfotzMwgZZii87KB043ZoD31JKBQkqL8WDA-Ivo-s4i04d1HCIUWzwmmgD2HBZ_fgMFx54GkXZ4uzmrLlf09mus)
