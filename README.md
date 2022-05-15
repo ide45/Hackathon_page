@@ -7,6 +7,7 @@ Creamos una página y un bot de telegram [link](https://github.com/LuisAngelFnz/
 La comunicación y el tiempo fue lo más difícil, tuvimos 2 días para desarrollar la página. En el aspecto de la comunicación, formamos equipos con personas que nunca habíamos conocido, es normal que llegara a haber desacuerdos, malos entendidos, etc; al final, pudimos enfrentarnos al problema y solucionarlo entre todos, de eso se trata. 
 
 
+#### Aviso
 Antes de abrir la pag, instalar esta extensión de chrome y activarla
 
 [link extension](https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf)
