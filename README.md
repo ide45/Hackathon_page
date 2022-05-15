@@ -1,7 +1,7 @@
 # Hackathon Microsoft
 
 ## Nuestro proyecto | Marine Preservation
-Creamos una página y un bot de telegram [link](https://github.com/LuisAngelFnz/BotTelegramMarinePreservation) con el fin de que el usuario obtenga infromación de distintas especies de peces; su localización, estado en el que se encuentra su población y una imagen del ejemplar
+Creamos una página [source_code_page](https://github.com/ide45/Hackathon_code) y un bot de telegram [source_code_bot](https://github.com/LuisAngelFnz/BotTelegramMarinePreservation) con el fin de que el usuario obtenga infromación de distintas especies de peces; su localización, estado en el que se encuentra su población y una imagen del ejemplar
 
 ## Retos a los que nos enfrentamos
 La comunicación y el tiempo fue lo más difícil, tuvimos 2 días para desarrollar la página. En el aspecto de la comunicación, formamos equipos con personas que nunca habíamos conocido, es normal que llegara a haber desacuerdos, malos entendidos, etc; al final, pudimos enfrentarnos al problema y solucionarlo entre todos, de eso se trata. 
