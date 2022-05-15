@@ -32,3 +32,16 @@ El logotipo enciende cuando ya está activada, aparecerá tal y como está en la
  ### Estructura
  
  [![](https://mermaid.ink/img/pako:eNp1kMGKAjEMhl-l5KSgLzAHYcbuYQ8LAwp7mHqINmrRaWfbzMKivrsRO64HDTmEL3_-kJxgEyxBAbuI3V4ttfFKomxGGhnXmGi8uqNq9IXReaojJYq_yC54Vdaf43t73nzTWnW4o6zXTRV4SUcS51ZYNlbT6UydlWSVff9JOagGJqu64BNJOc9rHp2fnhK_8HmaycfotzMwgZZii87KB043ZoD31JKBQkqL8WDA-Ivo-s4i04d1HCIUWzwmmgD2HBZ_fgMFx54GkXZ4uzmrLlf09mus)](https://mermaid.live/edit#pako:eNp1kMGKAjEMhl-l5KSgLzAHYcbuYQ8LAwp7mHqINmrRaWfbzMKivrsRO64HDTmEL3_-kJxgEyxBAbuI3V4ttfFKomxGGhnXmGi8uqNq9IXReaojJYq_yC54Vdaf43t73nzTWnW4o6zXTRV4SUcS51ZYNlbT6UydlWSVff9JOagGJqu64BNJOc9rHp2fnhK_8HmaycfotzMwgZZii87KB043ZoD31JKBQkqL8WDA-Ivo-s4i04d1HCIUWzwmmgD2HBZ_fgMFx54GkXZ4uzmrLlf09mus)
+ 
+ ## Instalación
+ Tener instalada la extensión de google chrome mencionada arriba y habilitarla.
+
+ ```
+mkdir HackathonMicrosoft
+ 
+git clone https://github.com/ide45/Hackathon_page.git HackathonMicrosoft
+
+cd HackathonMicrosoft
+
+ ```
+ Abrir el archivo index.html en el navegador
