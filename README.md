@@ -6,6 +6,12 @@ Creamos una página [source_code_page](https://github.com/ide45/Hackathon_code) 
 ## Retos a los que nos enfrentamos
 La comunicación y el tiempo fue lo más difícil, tuvimos 2 días para desarrollar la página. En el aspecto de la comunicación, formamos equipos con personas que nunca habíamos conocido, es normal que llegara a haber desacuerdos, malos entendidos, etc; al final, pudimos enfrentarnos al problema y solucionarlo entre todos, de eso se trata. 
 
+## Demostración
+
+### PC
+![gif](https://github.com/ide45/ide45_public/blob/main/ezgif.com-gif-maker.gif)
+### Responsive
+![bandicam-2022-05-16-14-51-47-825](https://user-images.githubusercontent.com/91546625/168673178-15bdb3d4-2a03-4b8b-8598-b128c6a0d920.gif)
 
 #### Aviso
 Antes de abrir la pag, instalar esta extensión de chrome y activarla
