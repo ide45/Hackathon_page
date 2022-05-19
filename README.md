@@ -25,7 +25,7 @@ El logotipo enciende cuando ya está activada, aparecerá tal y como está en la
 ### Link pag
 [Link](https://ide45.github.io/mockup_noC/#/)
 
-### Tegnologías y dependencias
+### Tecnologías y dependencias
 - **Node**
     - *axios*
     - *jest*
